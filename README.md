@@ -1,2 +1,3 @@
 # experimental1
-personal experimental with chef
+
+I am a sensible and rational man that talks to himself a lot. Hurray!
